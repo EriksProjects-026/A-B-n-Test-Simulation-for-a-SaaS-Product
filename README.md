@@ -314,7 +314,7 @@ python A-B-n-Test-Simulation.py
 # Структура проекта
 
 ```text
-├── main.py
+├── A-B-n-Test-Simulation.py
 ├── README.md
 └── .gitignore
 ```
